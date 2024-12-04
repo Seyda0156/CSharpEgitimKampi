@@ -1,0 +1,7 @@
+C:\Users\seyda\source\repos\CSharpEgitimKampi\01.MainSubjecst\bin\Debug\01.MainSubjecst.exe.config
+C:\Users\seyda\source\repos\CSharpEgitimKampi\01.MainSubjecst\bin\Debug\01.MainSubjecst.exe
+C:\Users\seyda\source\repos\CSharpEgitimKampi\01.MainSubjecst\bin\Debug\01.MainSubjecst.pdb
+C:\Users\seyda\source\repos\CSharpEgitimKampi\01.MainSubjecst\obj\Debug\01.MainSubjecst.csproj.AssemblyReference.cache
+C:\Users\seyda\source\repos\CSharpEgitimKampi\01.MainSubjecst\obj\Debug\01.MainSubjecst.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\CSharpEgitimKampi\01.MainSubjecst\obj\Debug\01.MainSubjecst.exe
+C:\Users\seyda\source\repos\CSharpEgitimKampi\01.MainSubjecst\obj\Debug\01.MainSubjecst.pdb

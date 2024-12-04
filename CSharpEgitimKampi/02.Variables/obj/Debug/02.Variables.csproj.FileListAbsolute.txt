@@ -1,0 +1,7 @@
+C:\Users\seyda\source\repos\CSharpEgitimKampi\02.Variables\bin\Debug\02.Variables.exe.config
+C:\Users\seyda\source\repos\CSharpEgitimKampi\02.Variables\bin\Debug\02.Variables.exe
+C:\Users\seyda\source\repos\CSharpEgitimKampi\02.Variables\bin\Debug\02.Variables.pdb
+C:\Users\seyda\source\repos\CSharpEgitimKampi\02.Variables\obj\Debug\02.Variables.csproj.AssemblyReference.cache
+C:\Users\seyda\source\repos\CSharpEgitimKampi\02.Variables\obj\Debug\02.Variables.csproj.CoreCompileInputs.cache
+C:\Users\seyda\source\repos\CSharpEgitimKampi\02.Variables\obj\Debug\02.Variables.exe
+C:\Users\seyda\source\repos\CSharpEgitimKampi\02.Variables\obj\Debug\02.Variables.pdb

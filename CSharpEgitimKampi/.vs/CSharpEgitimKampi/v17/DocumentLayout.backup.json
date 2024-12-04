@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seyda\\source\\repos\\CSharpEgitimKampi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93C390CD-8FDF-4294-85BE-2BD9932627C2}|02.Variables\\02.Variables.csproj|c:\\users\\seyda\\source\\repos\\csharpegitimkampi\\02.variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C390CD-8FDF-4294-85BE-2BD9932627C2}|02.Variables\\02.Variables.csproj|solutionrelative:02.variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD977EC-C1A2-49EC-8F45-A97667212754}|01.MainSubjecst\\01.MainSubjecst.csproj|C:\\Users\\seyda\\source\\repos\\CSharpEgitimKampi\\01.mainsubjecst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD977EC-C1A2-49EC-8F45-A97667212754}|01.MainSubjecst\\01.MainSubjecst.csproj|solutionrelative:01.mainsubjecst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seyda\\source\\repos\\CSharpEgitimKampi\\02.Variables\\Program.cs",
+              "RelativeDocumentMoniker": "02.Variables\\Program.cs",
+              "ToolTip": "C:\\Users\\seyda\\source\\repos\\CSharpEgitimKampi\\02.Variables\\Program.cs",
+              "RelativeToolTip": "02.Variables\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwJoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:16:22.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seyda\\source\\repos\\CSharpEgitimKampi\\01.MainSubjecst\\Program.cs",
+              "RelativeDocumentMoniker": "01.MainSubjecst\\Program.cs",
+              "ToolTip": "C:\\Users\\seyda\\source\\repos\\CSharpEgitimKampi\\01.MainSubjecst\\Program.cs",
+              "RelativeToolTip": "01.MainSubjecst\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwDUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:45:30.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
