@@ -27,3 +27,11 @@ Karmaşık işlemleri gerçekleştirmek için geri değer döndüren fonksiyonla
 
 📂 Proje 9: Veritabanı ile Çalışma
 Veritabanı bağlantısı kurarak veritabanından bilgi çekme ve ekrana listeleme uygulamaları geliştirdim. SqlConnection ve SqlCommand sınıfları ile veritabanı yönetimi üzerine önemli bilgiler kazandım. 🗃️
+
+🌟 Proje 10: Menü Sipariş Yönetim Paneli
+Bu projede, temel CRUD işlemlerini uygulayarak SQL tabanlı bir sistem geliştirdim. Ürün ve kategori bilgilerini ekleme, listeleme, güncelleme ve silme işlemleri gerçekleştirdim. SQL komutlarıyla dinamik veri yönetimi ve sorgulama becerilerimi pekiştirdim. 📋
+
+💻 EfTravel İstatistik Paneli
+![Ekran görüntüsü 2024-12-27 185010](https://github.com/user-attachments/assets/619c8680-59fd-49e1-866e-379ddc4b40a0)
+Bu projede, Entity Framework kullanarak bir seyahat veritabanını sorgulayıp görselleştiren bir istatistik paneli oluşturdum. Windows Forms üzerinde, toplam lokasyon sayısı, kapasite, rehber sayısı gibi bilgileri ve ortalama fiyat, kapasite gibi istatistikleri canlı olarak kullanıcıya sunmayı başardım. Verileri şehir veya ülke bazında filtreleyip analiz ettim, maksimum kapasite ve fiyat gibi en yüksek değerlere sahip şehirleri belirledim. Kullanıcı dostu bir arayüzle, proje hem görsellik hem de işlevsellik kazandı. 🌟
+
